@@ -1,0 +1,24 @@
+h1 {
+  color: aliceblue;
+  background-color: black;
+  font-style: initial;
+  font-size: xx-large;
+  text-align: left;
+  text-decoration: transparent;
+}
+h2 {
+  color: aliceblue;
+  background-color: rebeccapurple;
+  font-style: normal;
+  font-size: x-large;
+  text-align: center;
+  text-decoration: unset;
+}
+h3 {
+  color: rgb(5, 5, 102);
+  background-color: rgb(65, 173, 245);
+  font-style: italic;
+  font-size: larger;
+  text-align: right;
+  text-decoration: underline;
+}
